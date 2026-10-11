@@ -1,0 +1,7 @@
+analysis_type,measurement,date,hour,value
+peak_hour,fnard,,17.0,9.569013606267129
+peak_hour,fnok,,5.0,9.545982089552238
+peak_hour,cark,,17.0,9.56840726637724
+peak_hour,gnuck,,19.0,24.60583712157849
+business_hours_percentage,all_readings,,,33.35
+simultaneous_peak_count,all_four,,,0.0
